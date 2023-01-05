@@ -1,0 +1,21 @@
+body {
+    background-color: thistle;
+    text-align: center;
+}
+/* Changed background color to a purple shade and changed text alignment to center*/
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+/* Changed text color to blue violet and text align to center.*/
+h3 {
+    color: blueviolet;
+    text-align: left;
+}
+img {
+    border-radius: 16px;
+    box-shadow: 5px 5px 5px #333;
+} 
+/* Made image look nicer*/
+
+
